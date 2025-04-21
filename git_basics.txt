@@ -1,0 +1,25 @@
+# github_basics.txt
+
+git init
+> Erstellt ein neues Git-Repository im aktuellen Ordner.
+
+git clone <URL>
+> Klont ein bestehendes Repository von GitHub auf deinen Rechner.
+
+git status
+> Zeigt den aktuellen Status der Dateien (geändert, hinzugefügt, usw.).
+
+git add <datei>
+> Fügt eine Datei zur "Staging Area" hinzu (Vorbereitung für den Commit).
+
+git commit -m "Nachricht"
+> Speichert den aktuellen Stand der "Staging Area" mit einer Nachricht.
+
+git push
+> Sendet deine Commits zum GitHub-Repository (muss verbunden sein).
+
+git pull
+> Holt die neuesten Änderungen von GitHub und integriert sie lokal.
+
+git log
+> Zeigt eine Liste aller bisherigen Commits.
